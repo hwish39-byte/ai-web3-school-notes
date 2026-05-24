@@ -1,4 +1,4 @@
-# 📚 AI × Web3 School 个人学习计划
+# AI × Web3 School 个人学习计划
 
 > 基于 Handbook 四层地图，结合个人画像定制。
 >
